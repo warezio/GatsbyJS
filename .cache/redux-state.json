@@ -870,18 +870,16 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Default Starter"
+        "title": "GITA Docs"
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
       "buildTime": "2019-08-27T07:06:07.886Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "166f55c338302be67557da048c1d0695",
+        "contentDigest": "7c73f10094c72a39d57db3e3df6459fb",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
