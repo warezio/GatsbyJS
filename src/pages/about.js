@@ -5,11 +5,11 @@ import Layout from "../components/layout";
 import Image from "../components/image";
 
 const AboutPage = () => (
-	<main>
+	<Layout>
 		<h1>About the Author</h1>
 		<p>Welcome to my Gatsby site.</p>
 		<Link to="/">Go back to the homepage</Link>
-	</main>
+	</Layout>
 );
 
 export default AboutPage;
