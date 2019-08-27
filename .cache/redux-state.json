@@ -1123,6 +1123,26 @@
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "782a446a56e40558572b3d56e0612ac8",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -1150,7 +1170,8 @@
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
-    "sq--src-components-image-js": 2011440971
+    "sq--src-components-image-js": 2011440971,
+    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
     "/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/.cache/dev-404-page.js": {
@@ -1168,6 +1189,10 @@
     "/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/src/pages/page-2.js": {
       "query": "",
       "componentPath": "/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/src/pages/page-2.js"
+    },
+    "/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/src/pages/about.js": {
+      "query": "",
+      "componentPath": "/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/src/pages/about.js"
     }
   },
   "staticQueryComponents": {
