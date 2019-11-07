@@ -10,6 +10,7 @@ exports.components = {
   "component---src-pages-about-js": hot(preferDefault(require("/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/src/pages/about.js"))),
   "component---src-pages-blog-js": hot(preferDefault(require("/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/src/pages/blog.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/src/pages/index.js"))),
-  "component---src-pages-page-2-js": hot(preferDefault(require("/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/src/pages/page-2.js")))
+  "component---src-pages-page-2-js": hot(preferDefault(require("/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/src/pages/page-2.js"))),
+  "component---src-pages-products-js": hot(preferDefault(require("/Users/warezio/Documents/Git/GitHub/warezio/GatsbyJS/src/pages/products.js")))
 }
 

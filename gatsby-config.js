@@ -25,6 +25,14 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        dbEngine: {
+          client: 'mssql',
+          connection: {
+            host : 'svr02.welico.com,4750',
+            user : 'sa',
+            password : 'syjh08@#',
+            database : 'luny'
+        },
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
